@@ -1,2 +1,0 @@
-# StrankaNemo
-Created with CodeSandbox
